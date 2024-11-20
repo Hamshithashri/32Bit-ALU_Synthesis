@@ -1,4 +1,4 @@
-# 32Bit-ALU_Synthesis
+# EXP5: 32Bit-ALU_Synthesis
 
 ## Aim:
 
@@ -42,9 +42,11 @@ used.
 #### Area report:
 ![Screenshot_(127) 1](https://github.com/user-attachments/assets/84d67580-0700-4337-be51-2669de409ba1)
 
+#### Timing Report:
+![Screenshot_(128) 1](https://github.com/user-attachments/assets/f5743d0e-6eb1-453e-b7af-2294aa40e30b)
 
 #### Power Report:
-![Screenshot_(128) 1](https://github.com/user-attachments/assets/507cafd5-7dc7-46ca-8fec-7c41bc171a33)
+![Screenshot_(129) 1](https://github.com/user-attachments/assets/3dc916a4-e92b-4531-94c4-192e3c2672bf)
 
 
 #### Result: 
